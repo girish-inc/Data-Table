@@ -2,6 +2,12 @@
 
 A modern React application built with Vite and PrimeReact DataTable to manage and display lead information.
 
+## 📸 Preview
+
+![Lead Management Dashboard](./images/screenshot.png)
+
+*Modern dark-themed lead management interface with sortable columns and status badges*
+
 ## 🚀 Features
 
 - **Interactive DataTable** with sorting and pagination
